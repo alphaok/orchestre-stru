@@ -39,7 +39,6 @@ Pour les instruments, `note()`, `n().scale()` ou `chord().voicing()` choisissent
 | `marimba` | do 3 – do 7 |
 | `vibraphone` | la 3 – mi 6 |
 | `cloches` | do 4 – mi 5 (cloches tubulaires) |
-
 | `rhodes` | mi 1 – mi 7 (piano électrique Fender Rhodes Mark II) |
 | `wurlitzer` | ré 2 – ré 6 (piano électrique Wurlitzer 200A) |
 | `guitare` | mi 2 – ré# 5 (guitare électro-acoustique Sherwood SH887) |
