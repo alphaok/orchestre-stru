@@ -1,0 +1,231 @@
+{
+ "_base": "https://raw.githubusercontent.com/alphaok/orchestre-stru/main/",
+ "trombones": {
+  "f#2": "trombones_fs2.mp3",
+  "a#2": "trombones_as2.mp3",
+  "f3": "trombones_f3.mp3",
+  "a#3": "trombones_as3.mp3",
+  "c4": "trombones_c4.mp3",
+  "f4": "trombones_f4.mp3",
+  "a#4": "trombones_as4.mp3"
+ },
+ "trombones_stac": {
+  "f#2": "trombones_stac_fs2.mp3",
+  "a#2": "trombones_stac_as2.mp3",
+  "f3": "trombones_stac_f3.mp3",
+  "a#3": "trombones_stac_as3.mp3",
+  "f4": "trombones_stac_f4.mp3",
+  "a#4": "trombones_stac_as4.mp3"
+ },
+ "violoncelles": {
+  "c2": "violoncelles_c2.mp3",
+  "e2": "violoncelles_e2.mp3",
+  "g2": "violoncelles_g2.mp3",
+  "b2": "violoncelles_b2.mp3",
+  "d3": "violoncelles_d3.mp3",
+  "f3": "violoncelles_f3.mp3",
+  "c4": "violoncelles_c4.mp3",
+  "b4": "violoncelles_b4.mp3"
+ },
+ "violoncelles_pizz": {
+  "c2": "violoncelles_pizz_c2.mp3",
+  "e2": "violoncelles_pizz_e2.mp3",
+  "g2": "violoncelles_pizz_g2.mp3",
+  "b2": "violoncelles_pizz_b2.mp3",
+  "f3": "violoncelles_pizz_f3.mp3",
+  "a3": "violoncelles_pizz_a3.mp3"
+ },
+ "harpe": {
+  "b1": "harpe_b1.mp3",
+  "d2": "harpe_d2.mp3",
+  "a2": "harpe_a2.mp3",
+  "c3": "harpe_c3.mp3",
+  "b3": "harpe_b3.mp3",
+  "d4": "harpe_d4.mp3",
+  "a4": "harpe_a4.mp3",
+  "c5": "harpe_c5.mp3",
+  "b5": "harpe_b5.mp3",
+  "a6": "harpe_a6.mp3"
+ },
+ "flute": {
+  "c4": "flute_c4.mp3",
+  "e4": "flute_e4.mp3",
+  "g4": "flute_g4.mp3",
+  "a4": "flute_a4.mp3",
+  "c5": "flute_c5.mp3",
+  "e5": "flute_e5.mp3",
+  "g5": "flute_g5.mp3",
+  "a5": "flute_a5.mp3",
+  "c6": "flute_c6.mp3",
+  "e6": "flute_e6.mp3",
+  "a6": "flute_a6.mp3"
+ },
+ "flute_trille": {
+  "e4": "flute_trille_e4.mp3",
+  "g4": "flute_trille_g4.mp3",
+  "a4": "flute_trille_a4.mp3",
+  "c5": "flute_trille_c5.mp3",
+  "e5": "flute_trille_e5.mp3",
+  "g5": "flute_trille_g5.mp3",
+  "a5": "flute_trille_a5.mp3",
+  "c6": "flute_trille_c6.mp3"
+ },
+ "marimba": {
+  "c3": "marimba_c3.mp3",
+  "g3": "marimba_g3.mp3",
+  "b3": "marimba_b3.mp3",
+  "f4": "marimba_f4.mp3",
+  "c5": "marimba_c5.mp3",
+  "b5": "marimba_b5.mp3",
+  "c7": "marimba_c7.mp3"
+ },
+ "basson": {
+  "a#1": "basson_as1.mp3",
+  "d2": "basson_d2.mp3",
+  "f2": "basson_f2.mp3",
+  "a2": "basson_a2.mp3",
+  "c3": "basson_c3.mp3",
+  "d#3": "basson_ds3.mp3",
+  "e3": "basson_e3.mp3",
+  "a3": "basson_a3.mp3",
+  "c4": "basson_c4.mp3",
+  "a#4": "basson_as4.mp3"
+ },
+ "cor": {
+  "d3": "cor_d3.mp3",
+  "a#3": "cor_as3.mp3",
+  "d4": "cor_d4.mp3",
+  "f4": "cor_f4.mp3",
+  "a#4": "cor_as4.mp3"
+ },
+ "contrebasse_pizz": {
+  "e1": "contrebasse_pizz_e1.mp3",
+  "a1": "contrebasse_pizz_a1.mp3",
+  "e2": "contrebasse_pizz_e2.mp3",
+  "a2": "contrebasse_pizz_a2.mp3",
+  "c3": "contrebasse_pizz_c3.mp3",
+  "d#3": "contrebasse_pizz_ds3.mp3",
+  "g#3": "contrebasse_pizz_gs3.mp3"
+ },
+ "trompette": {
+  "f3": "trompette_f3.mp3",
+  "c4": "trompette_c4.mp3",
+  "a#4": "trompette_as4.mp3",
+  "d5": "trompette_d5.mp3",
+  "f5": "trompette_f5.mp3",
+  "c6": "trompette_c6.mp3"
+ },
+ "cloches": {
+  "c4": "cloches_c4.mp3",
+  "e4": "cloches_e4.mp3",
+  "g4": "cloches_g4.mp3",
+  "a4": "cloches_a4.mp3",
+  "c5": "cloches_c5.mp3",
+  "e5": "cloches_e5.mp3"
+ },
+ "tuba": {
+  "a#1": "tuba_as1.mp3",
+  "d#2": "tuba_ds2.mp3",
+  "a#2": "tuba_as2.mp3"
+ },
+ "tuba_stac": {
+  "a#1": "tuba_stac_as1.mp3",
+  "f2": "tuba_stac_f2.mp3",
+  "a#2": "tuba_stac_as2.mp3",
+  "d3": "tuba_stac_d3.mp3",
+  "f3": "tuba_stac_f3.mp3",
+  "a#3": "tuba_stac_as3.mp3",
+  "d4": "tuba_stac_d4.mp3"
+ },
+ "vibraphone": {
+  "a3": "vibraphone_a3.mp3",
+  "c4": "vibraphone_c4.mp3",
+  "e4": "vibraphone_e4.mp3",
+  "b4": "vibraphone_b4.mp3",
+  "d5": "vibraphone_d5.mp3",
+  "a5": "vibraphone_a5.mp3",
+  "c6": "vibraphone_c6.mp3",
+  "e6": "vibraphone_e6.mp3"
+ },
+ "altos": {
+  "c3": "altos_c3.mp3",
+  "d3": "altos_d3.mp3",
+  "e3": "altos_e3.mp3",
+  "g3": "altos_g3.mp3",
+  "b3": "altos_b3.mp3",
+  "d4": "altos_d4.mp3",
+  "f4": "altos_f4.mp3",
+  "a4": "altos_a4.mp3",
+  "c5": "altos_c5.mp3",
+  "e5": "altos_e5.mp3",
+  "b5": "altos_b5.mp3"
+ },
+ "violons_harmo": {
+  "g5": "violons_harmo_g5.mp3",
+  "b5": "violons_harmo_b5.mp3",
+  "d6": "violons_harmo_d6.mp3",
+  "f#6": "violons_harmo_fs6.mp3",
+  "a6": "violons_harmo_a6.mp3",
+  "c7": "violons_harmo_c7.mp3"
+ },
+ "violons": {
+  "g3": "violons_g3.mp3",
+  "a3": "violons_a3.mp3",
+  "b3": "violons_b3.mp3",
+  "d4": "violons_d4.mp3",
+  "a4": "violons_a4.mp3",
+  "c5": "violons_c5.mp3",
+  "e5": "violons_e5.mp3",
+  "b5": "violons_b5.mp3",
+  "d6": "violons_d6.mp3"
+ },
+ "timbales": [
+  "timbales_0.mp3",
+  "timbales_1.mp3",
+  "timbales_2.mp3",
+  "timbales_3.mp3",
+  "timbales_4.mp3"
+ ],
+ "timbales_roulement": [
+  "timbales_roulement_0.mp3"
+ ],
+ "caisse_claire": [
+  "caisse_claire_0.mp3",
+  "caisse_claire_1.mp3",
+  "caisse_claire_2.mp3",
+  "caisse_claire_3.mp3"
+ ],
+ "caisse_claire_roulement": [
+  "caisse_claire_roulement_0.mp3"
+ ],
+ "toms": [
+  "toms_0.mp3",
+  "toms_1.mp3"
+ ],
+ "cymbale": [
+  "cymbale_0.mp3"
+ ],
+ "cymbale_suspendue": [
+  "cymbale_suspendue_0.mp3",
+  "cymbale_suspendue_1.mp3"
+ ],
+ "gong": [
+  "gong_0.mp3"
+ ],
+ "triangle": [
+  "triangle_0.mp3"
+ ],
+ "tambourin": [
+  "tambourin_0.mp3",
+  "tambourin_1.mp3"
+ ],
+ "darbuka": [
+  "darbuka_0.mp3",
+  "darbuka_1.mp3",
+  "darbuka_2.mp3"
+ ],
+ "clochettes": [
+  "clochettes_0.mp3",
+  "clochettes_1.mp3"
+ ]
+}
